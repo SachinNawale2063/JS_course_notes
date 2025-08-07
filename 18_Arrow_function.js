@@ -20,7 +20,7 @@ user.welcomeMsg()
 
 const chai = () =>{
     const name = "sachinNawale"
-    console.log(this.name);          // not work in this arrow function
+    console.log(name);          // not work in this arrow function
 }
 chai()
 
